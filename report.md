@@ -22,7 +22,8 @@ The hyperparameters of the model are:
 - Max time step per episode = 1000
 
 ## Results
-The aiming of the project was to reach an average score of +30 over 100 consecutive episodes. It was reached after 273 episodes, as it can be seen in the folowwing Figure:
+The aiming of the project was to reach an average score of +30 over 100 consecutive episodes. It was reached after 273 episodes, as it can be seen in the folowing Figure:
+
 ![results_01](images/res_01.png)
 
 ## Future Improvements
